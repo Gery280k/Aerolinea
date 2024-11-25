@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h8NOBjsWzHo=",
+  "dgSpecHash": "WaQx4VT8YTs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Aerolinea.API.csproj",
+  "projectFilePath": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Aerolinea.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gera\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Gera\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cfY3wweKAGc=",
+  "dgSpecHash": "F3EI90nWzJA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gera\\source\\repos\\Aerolinea.Models\\Aerolinea.Models.csproj",
+  "projectFilePath": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.Models\\Aerolinea.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gera\\.nuget\\packages\\mongodb.bson\\3.0.0\\mongodb.bson.3.0.0.nupkg.sha512",
     "C:\\Users\\Gera\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

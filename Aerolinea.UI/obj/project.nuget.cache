@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mWmyV5tr/Mc=",
+  "dgSpecHash": "962pZCsZIx4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Aerolinea.UI.csproj",
+  "projectFilePath": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.UI\\Aerolinea.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gera\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.33\\microsoft.aspnetcore.authorization.6.0.33.nupkg.sha512",
     "C:\\Users\\Gera\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.33\\microsoft.aspnetcore.components.6.0.33.nupkg.sha512",

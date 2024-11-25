@@ -1,78 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\",
+  "WorkspaceRootPath": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B91544BD-5709-4082-B867-7DFC12B6B298}|..\\Aerolinea.UI\\Aerolinea.UI.csproj|c:\\users\\gera\\source\\repos\\aerolinea.ui\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B91544BD-5709-4082-B867-7DFC12B6B298}|..\\Aerolinea.UI\\Aerolinea.UI.csproj|c:\\users\\gera\\desktop\\aerolinea\\aerolinea.ui\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B91544BD-5709-4082-B867-7DFC12B6B298}|..\\Aerolinea.UI\\Aerolinea.UI.csproj|c:\\users\\gera\\source\\repos\\aerolinea.ui\\pages\\productdelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\source\\repos\\aerolinea.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\desktop\\aerolinea\\aerolinea.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E77FED13-6CF6-4C99-8694-6D15C8E1BCC9}|..\\Aerolinea.Models\\Aerolinea.Models.csproj|c:\\users\\gera\\source\\repos\\aerolinea.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\source\\repos\\aerolinea.api\\repositories\\iproductcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\desktop\\aerolinea\\aerolinea.api\\repositories\\iproductcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|solutionrelative:repositories\\iproductcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B91544BD-5709-4082-B867-7DFC12B6B298}|..\\Aerolinea.UI\\Aerolinea.UI.csproj|c:\\users\\gera\\source\\repos\\aerolinea.ui\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B91544BD-5709-4082-B867-7DFC12B6B298}|..\\Aerolinea.UI\\Aerolinea.UI.csproj|c:\\users\\gera\\source\\repos\\aerolinea.ui\\pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\source\\repos\\aerolinea.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\desktop\\aerolinea\\aerolinea.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B91544BD-5709-4082-B867-7DFC12B6B298}|..\\Aerolinea.UI\\Aerolinea.UI.csproj|c:\\users\\gera\\source\\repos\\aerolinea.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\source\\repos\\aerolinea.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\desktop\\aerolinea\\aerolinea.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\source\\repos\\aerolinea.api\\aerolinea.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\desktop\\aerolinea\\aerolinea.api\\aerolinea.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|solutionrelative:aerolinea.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B91544BD-5709-4082-B867-7DFC12B6B298}|..\\Aerolinea.UI\\Aerolinea.UI.csproj|c:\\users\\gera\\source\\repos\\aerolinea.ui\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B91544BD-5709-4082-B867-7DFC12B6B298}|..\\Aerolinea.UI\\Aerolinea.UI.csproj|c:\\users\\gera\\source\\repos\\aerolinea.ui\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B91544BD-5709-4082-B867-7DFC12B6B298}|..\\Aerolinea.UI\\Aerolinea.UI.csproj|c:\\users\\gera\\source\\repos\\aerolinea.ui\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\source\\repos\\aerolinea.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\desktop\\aerolinea\\aerolinea.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B91544BD-5709-4082-B867-7DFC12B6B298}|..\\Aerolinea.UI\\Aerolinea.UI.csproj|c:\\users\\gera\\source\\repos\\aerolinea.ui\\aerolinea.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B91544BD-5709-4082-B867-7DFC12B6B298}|..\\Aerolinea.UI\\Aerolinea.UI.csproj|c:\\users\\gera\\source\\repos\\aerolinea.ui\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E77FED13-6CF6-4C99-8694-6D15C8E1BCC9}|..\\Aerolinea.Models\\Aerolinea.Models.csproj|c:\\users\\gera\\source\\repos\\aerolinea.models\\aerolinea.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\source\\repos\\aerolinea.api\\aerolinea.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\desktop\\aerolinea\\aerolinea.api\\aerolinea.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|solutionrelative:aerolinea.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\source\\repos\\aerolinea.api\\repositories\\mongodbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\desktop\\aerolinea\\aerolinea.api\\repositories\\mongodbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|solutionrelative:repositories\\mongodbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\source\\repos\\aerolinea.api\\repositories\\productcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|c:\\users\\gera\\desktop\\aerolinea\\aerolinea.api\\repositories\\productcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA5AF6F0-B6CA-4842-93E0-B3BE4A1D95AD}|Aerolinea.API.csproj|solutionrelative:repositories\\productcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Services\\IProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Pages\\ProductDetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gera\\source\\repos\\Aerolinea.Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Pages\\ProductDelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Pages\\FetchData.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\App.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Pages\\ProductList.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Aerolinea.UI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\_Imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gera\\source\\repos\\Aerolinea.Models\\Aerolinea.Models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +85,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 298,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,103 +101,109 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.UI\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "..\\Aerolinea.UI\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.UI\\Pages\\Counter.razor",
+              "RelativeToolTip": "..\\Aerolinea.UI\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T16:58:25.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "..\\Aerolinea.UI\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Aerolinea.UI\\Services\\IProductService.cs",
               "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Services\\IProductService.cs",
-              "RelativeToolTip": "..\\Aerolinea.UI\\Services\\IProductService.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Aerolinea.UI\\Services\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:45:25.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T07:45:25.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "ProductDetails.razor",
               "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Pages\\ProductDetails.razor",
-              "RelativeDocumentMoniker": "..\\Aerolinea.UI\\Pages\\ProductDetails.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Aerolinea.UI\\Pages\\ProductDetails.razor",
               "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Pages\\ProductDetails.razor",
-              "RelativeToolTip": "..\\Aerolinea.UI\\Pages\\ProductDetails.razor",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Aerolinea.UI\\Pages\\ProductDetails.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T07:44:59.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T07:44:59.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T08:16:16.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T08:16:16.256Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:34:49.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IProductCollection.cs",
-              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Repositories\\IProductCollection.cs",
-              "RelativeDocumentMoniker": "Repositories\\IProductCollection.cs",
-              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Repositories\\IProductCollection.cs",
-              "RelativeToolTip": "Repositories\\IProductCollection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:28:18.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T07:34:49.536Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IProductCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Repositories\\IProductCollection.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductCollection.cs",
+              "ToolTip": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Repositories\\IProductCollection.cs",
+              "RelativeToolTip": "Repositories\\IProductCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:28:18.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.Models\\Product.cs",
-              "RelativeDocumentMoniker": "..\\Aerolinea.Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Aerolinea.Models\\Product.cs",
               "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.Models\\Product.cs",
-              "RelativeToolTip": "..\\Aerolinea.Models\\Product.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Aerolinea.Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:29:40.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T07:29:40.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Aerolinea.UI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Aerolinea.UI\\Program.cs",
               "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Program.cs",
-              "RelativeToolTip": "..\\Aerolinea.UI\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Aerolinea.UI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:48:45.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T07:48:45.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "..\\Aerolinea.UI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Aerolinea.UI\\Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Services\\ProductService.cs",
-              "RelativeToolTip": "..\\Aerolinea.UI\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Aerolinea.UI\\Services\\ProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T07:50:21.315Z",
@@ -210,171 +219,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "ProductDelete.razor",
               "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Pages\\ProductDelete.razor",
-              "RelativeDocumentMoniker": "..\\Aerolinea.UI\\Pages\\ProductDelete.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Aerolinea.UI\\Pages\\ProductDelete.razor",
               "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Pages\\ProductDelete.razor",
-              "RelativeToolTip": "..\\Aerolinea.UI\\Pages\\ProductDelete.razor",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Aerolinea.UI\\Pages\\ProductDelete.razor",
               "ViewState": "AgIAAC0AAAAAAAAAAAAiwDoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T08:28:57.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FetchData.razor",
-              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Pages\\FetchData.razor",
-              "RelativeDocumentMoniker": "..\\Aerolinea.UI\\Pages\\FetchData.razor",
-              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Pages\\FetchData.razor",
-              "RelativeToolTip": "..\\Aerolinea.UI\\Pages\\FetchData.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T08:10:06.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\App.razor",
-              "RelativeDocumentMoniker": "..\\Aerolinea.UI\\App.razor",
-              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\App.razor",
-              "RelativeToolTip": "..\\Aerolinea.UI\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T08:10:29.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductList.razor",
-              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Pages\\ProductList.razor",
-              "RelativeDocumentMoniker": "..\\Aerolinea.UI\\Pages\\ProductList.razor",
-              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Pages\\ProductList.razor",
-              "RelativeToolTip": "..\\Aerolinea.UI\\Pages\\ProductList.razor",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T08:00:03.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Aerolinea.API",
-              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Aerolinea.API.csproj",
-              "RelativeDocumentMoniker": "Aerolinea.API.csproj",
-              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Aerolinea.API.csproj",
-              "RelativeToolTip": "Aerolinea.API.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-25T08:13:50.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-25T07:58:04.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T08:09:07.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Aerolinea.UI",
-              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Aerolinea.UI.csproj",
-              "RelativeDocumentMoniker": "..\\Aerolinea.UI\\Aerolinea.UI.csproj",
-              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Aerolinea.UI.csproj",
-              "RelativeToolTip": "..\\Aerolinea.UI\\Aerolinea.UI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-25T07:47:52.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T08:28:57.459Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\_Imports.razor",
-              "RelativeDocumentMoniker": "..\\Aerolinea.UI\\_Imports.razor",
-              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\_Imports.razor",
-              "RelativeToolTip": "..\\Aerolinea.UI\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Aerolinea.UI\\Pages\\FetchData.razor",
+              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Pages\\FetchData.razor",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Aerolinea.UI\\Pages\\FetchData.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T07:56:11.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T08:10:06.393Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Aerolinea.Models",
-              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.Models\\Aerolinea.Models.csproj",
-              "RelativeDocumentMoniker": "..\\Aerolinea.Models\\Aerolinea.Models.csproj",
-              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.Models\\Aerolinea.Models.csproj",
-              "RelativeToolTip": "..\\Aerolinea.Models\\Aerolinea.Models.csproj",
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\App.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Aerolinea.UI\\App.razor",
+              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\App.razor",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Aerolinea.UI\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-25T07:38:08.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProductCollection.cs",
-              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Repositories\\ProductCollection.cs",
-              "RelativeDocumentMoniker": "Repositories\\ProductCollection.cs",
-              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Repositories\\ProductCollection.cs",
-              "RelativeToolTip": "Repositories\\ProductCollection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:33:16.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MongoDBRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Repositories\\MongoDBRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\MongoDBRepository.cs",
-              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Repositories\\MongoDBRepository.cs",
-              "RelativeToolTip": "Repositories\\MongoDBRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:31:49.645Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:10:29.889Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "ProductList.razor",
+              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Pages\\ProductList.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Aerolinea.UI\\Pages\\ProductList.razor",
+              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Pages\\ProductList.razor",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Aerolinea.UI\\Pages\\ProductList.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:00:03.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Aerolinea.API",
-              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Aerolinea.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Aerolinea.API.csproj",
               "RelativeDocumentMoniker": "Aerolinea.API.csproj",
-              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.API\\Aerolinea.API.csproj",
+              "ToolTip": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Aerolinea.API.csproj",
+              "RelativeToolTip": "Aerolinea.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T08:13:50.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T07:58:04.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:09:07.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Aerolinea.UI.csproj",
+              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Aerolinea.UI.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Aerolinea.UI\\Aerolinea.UI.csproj",
+              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\Aerolinea.UI.csproj",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Aerolinea.UI\\Aerolinea.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T07:47:52.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\_Imports.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Aerolinea.UI\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.UI\\_Imports.razor",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Aerolinea.UI\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T07:56:11.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Aerolinea.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\Gera\\source\\repos\\Aerolinea.Models\\Aerolinea.Models.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Aerolinea.Models\\Aerolinea.Models.csproj",
+              "ToolTip": "C:\\Users\\Gera\\source\\repos\\Aerolinea.Models\\Aerolinea.Models.csproj",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Aerolinea.Models\\Aerolinea.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T07:38:08.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Repositories\\ProductCollection.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductCollection.cs",
+              "ToolTip": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Repositories\\ProductCollection.cs",
+              "RelativeToolTip": "Repositories\\ProductCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:33:16.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MongoDBRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Repositories\\MongoDBRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MongoDBRepository.cs",
+              "ToolTip": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Repositories\\MongoDBRepository.cs",
+              "RelativeToolTip": "Repositories\\MongoDBRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:31:49.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Aerolinea.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Aerolinea.API.csproj",
+              "RelativeDocumentMoniker": "Aerolinea.API.csproj",
+              "ToolTip": "C:\\Users\\Gera\\Desktop\\Aerolinea\\Aerolinea.API\\Aerolinea.API.csproj",
               "RelativeToolTip": "Aerolinea.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-25T07:28:12.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T07:28:12.594Z"
             }
           ]
         }

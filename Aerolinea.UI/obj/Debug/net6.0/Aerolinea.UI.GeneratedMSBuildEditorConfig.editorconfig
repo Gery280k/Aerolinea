@@ -13,51 +13,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Aerolinea.UI
 build_property.RootNamespace = Aerolinea.UI
-build_property.ProjectDir = C:\Users\Gera\source\repos\Aerolinea.UI\
+build_property.ProjectDir = C:\Users\Gera\Desktop\Aerolinea\Aerolinea.UI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Gera\source\repos\Aerolinea.UI
+build_property.MSBuildProjectDirectory = C:\Users\Gera\Desktop\Aerolinea\Aerolinea.UI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Gera/source/repos/Aerolinea.UI/App.razor]
+[C:/Users/Gera/Desktop/Aerolinea/Aerolinea.UI/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gera/source/repos/Aerolinea.UI/Pages/Counter.razor]
+[C:/Users/Gera/Desktop/Aerolinea/Aerolinea.UI/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gera/source/repos/Aerolinea.UI/Pages/FetchData.razor]
+[C:/Users/Gera/Desktop/Aerolinea/Aerolinea.UI/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gera/source/repos/Aerolinea.UI/Pages/ProductDelete.razor]
+[C:/Users/Gera/Desktop/Aerolinea/Aerolinea.UI/Pages/ProductDelete.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERlbGV0ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gera/source/repos/Aerolinea.UI/Pages/ProductDetails.razor]
+[C:/Users/Gera/Desktop/Aerolinea/Aerolinea.UI/Pages/ProductDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERldGFpbHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gera/source/repos/Aerolinea.UI/Pages/ProductList.razor]
+[C:/Users/Gera/Desktop/Aerolinea/Aerolinea.UI/Pages/ProductList.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdExpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gera/source/repos/Aerolinea.UI/Shared/SurveyPrompt.razor]
+[C:/Users/Gera/Desktop/Aerolinea/Aerolinea.UI/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gera/source/repos/Aerolinea.UI/_Imports.razor]
+[C:/Users/Gera/Desktop/Aerolinea/Aerolinea.UI/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gera/source/repos/Aerolinea.UI/Shared/MainLayout.razor]
+[C:/Users/Gera/Desktop/Aerolinea/Aerolinea.UI/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-1zvy0fd05o
 
-[C:/Users/Gera/source/repos/Aerolinea.UI/Shared/NavMenu.razor]
+[C:/Users/Gera/Desktop/Aerolinea/Aerolinea.UI/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-2kk45bmxo9

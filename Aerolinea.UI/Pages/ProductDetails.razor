@@ -1,0 +1,95 @@
+﻿@page "/productdetails"
+@page "/productdetails/{id}"
+
+@inject IProductService ProductService
+@inject NavigationManager NavigationManager
+
+<h3>@(string.IsNullOrEmpty(id) ? "Nuevo Producto" : "Editar Producto")</h3>
+
+<EditForm Model="@product" OnValidSubmit="SaveProduct" FormName="productForm">
+    <table class="">
+        <tr>
+            <td>Name:</td>
+            <td><input type="text" @bind-value="product.Name" /></td>
+        </tr>
+        <tr>
+            <td>Stock:</td>
+            <td><input type="number" @bind-value="product.Stock" /></td>
+        </tr>
+        <tr>
+            <td>Expiry Date:</td>
+            <td><input type="date" @bind-value="product.ExpiryDate" /></td>
+        </tr>
+        <tr>
+            <td>Category:</td>
+            <td><input type="text" @bind-value="product.Category" /></td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align:center">
+                <input type="submit" class="btn-success" value="Save" />
+                <input type="button" class="btn-secondary" value="Cancel" @onclick="Cancel" />
+            </td>
+        </tr>
+    </table>
+</EditForm>
+
+@code {
+    [Parameter]
+    public string id { get; set; }
+
+    Product product = new Product();
+
+    // Se ejecuta cuando la página se inicializa
+    protected override async Task OnInitializedAsync()
+    {
+        if (!string.IsNullOrEmpty(id))
+        {
+            // Si hay un id, obtenemos los detalles del producto para editar
+            product = await ProductService.GetProductDetailas(id);
+            if (product == null)
+            {
+                // Si el producto no se encuentra, redirigimos a la página principal
+                NavigationManager.NavigateTo("/");
+            }
+        }
+        else
+        {
+            // Si no hay id, inicializamos un producto vacío para crear uno nuevo
+            product = new Product();
+        }
+    }
+
+    // Método que guarda el producto
+    protected async Task SaveProduct()
+    {
+        try
+        {
+            if (string.IsNullOrEmpty(product.Id))
+            {
+                // Si no hay id, estamos creando un nuevo producto
+                await ProductService.SaveProduct(product);
+                Console.WriteLine("Nuevo producto creado.");
+            }
+            else
+            {
+                // Si hay id, estamos actualizando un producto existente
+                await ProductService.SaveProduct(product);
+                Console.WriteLine("Producto editado.");
+            }
+
+            // Después de guardar el producto, redirigimos a la lista de productos
+            NavigationManager.NavigateTo("/");
+        }
+        catch (Exception ex)
+        {
+            // Manejo de errores si la llamada falla
+            Console.WriteLine($"Error al guardar el producto: {ex.Message}");
+        }
+    }
+
+    // Método que maneja la cancelación (redirige a la página principal)
+    protected void Cancel()
+    {
+        NavigationManager.NavigateTo("/");
+    }
+}

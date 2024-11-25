@@ -1,0 +1,12 @@
+C:\Users\Gera\source\repos\Aerolinea.Models\obj\Debug\net6.0\Aerolinea.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gera\source\repos\Aerolinea.Models\obj\Debug\net6.0\Aerolinea.Models.AssemblyInfoInputs.cache
+C:\Users\Gera\source\repos\Aerolinea.Models\obj\Debug\net6.0\Aerolinea.Models.AssemblyInfo.cs
+C:\Users\Gera\source\repos\Aerolinea.Models\obj\Debug\net6.0\Aerolinea.Models.csproj.CoreCompileInputs.cache
+C:\Users\Gera\source\repos\Aerolinea.Models\bin\Debug\net6.0\Aerolinea.Models.deps.json
+C:\Users\Gera\source\repos\Aerolinea.Models\bin\Debug\net6.0\Aerolinea.Models.dll
+C:\Users\Gera\source\repos\Aerolinea.Models\bin\Debug\net6.0\Aerolinea.Models.pdb
+C:\Users\Gera\source\repos\Aerolinea.Models\obj\Debug\net6.0\Aerolinea.Models.csproj.AssemblyReference.cache
+C:\Users\Gera\source\repos\Aerolinea.Models\obj\Debug\net6.0\Aerolinea.Models.dll
+C:\Users\Gera\source\repos\Aerolinea.Models\obj\Debug\net6.0\refint\Aerolinea.Models.dll
+C:\Users\Gera\source\repos\Aerolinea.Models\obj\Debug\net6.0\Aerolinea.Models.pdb
+C:\Users\Gera\source\repos\Aerolinea.Models\obj\Debug\net6.0\ref\Aerolinea.Models.dll

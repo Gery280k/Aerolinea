@@ -1,0 +1,66 @@
+﻿@page "/productdelete/{id}"
+
+@inject IProductService ProductService
+
+@inject NavigationManager NavigationManager
+
+
+<h3>ProductDelete</h3>
+<p style="color:red;text-align:center">Are you sure you want to delete nthis product?</p>
+<button @onclick="() => DeleteProduct()" class="btn btn-primary">SI</button>
+
+<EditForm Model="@product" OnValidSubmit="DeleteProduct" FormName="productForm">
+    <table class="">
+        <tr>
+            <td>Name:</td>
+            <td><input type="text" @bind="product.Name" /></td>
+        </tr>
+        <tr>
+            <td>Stock:</td>
+            <td><input type="number" @bind="product.Stock" /></td>
+        </tr>
+        <tr>
+            <td>Expiry Date:</td>
+            <td><input type="date" @bind="product.ExpiryDate" /></td>
+        </tr>
+        <tr>
+            <td>Category:</td>
+            <td><input type="text" @bind="product.Category" /></td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align:center">
+                <input type="submit" class="btn-success" value="Save" />
+                <input type="button" class="btn-secondary" value="Cancel" />
+            </td>
+        </tr>
+    </table>
+</EditForm>
+
+@code{
+
+    [Parameter]
+    public string id { get; set; }
+
+    Product product = new Product();
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (!string.IsNullOrEmpty(id))
+        {
+            product = await ProductService.GetProductDetailas(id);
+        }
+    }
+
+    protected async Task DeleteProduct()
+    {
+        await ProductService.DeleteProduct(id);
+
+        NavigationManager.NavigateTo("/");
+    }
+
+    protected void Cancel()
+    {
+        NavigationManager.NavigateTo("/");
+    }
+
+}
